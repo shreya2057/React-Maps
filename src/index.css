@@ -1,0 +1,8 @@
+.markercluster-map {
+  width: 100dvw;
+  height: 90vh;
+}
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
